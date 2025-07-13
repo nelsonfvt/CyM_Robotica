@@ -2,18 +2,18 @@
 
 Autor: Alexandra Velasco Vivas
 
-## 1. Cinemática y matrices de rotación
+1. Cinemática y matrices de rotación [Presentación](/./1%20Cinematica_%20matrices%20de%20rotacion.pptx)
 
-## 2. Representación de rotaciones - ángulos de Euler
+2. Representación de rotaciones - ángulos de Euler [Presentación]()
 
-## 3. Matrices de trnasformación
+3. Matrices de trnasformación [Presentación]()
 
-## 4. Cinemática directa
+4. Cinemática directa [Presentación]()
 
-## 5. Cinemática inversa
+5. Cinemática inversa [Presentación]()
 
-## 6. Cinemática diferencial
+6. Cinemática diferencial [Presentación]()
 
-## 7. Planeación de trayectorias
+7. Planeación de trayectorias [Presentación]()
 
-## 8. Control cinemático
+8. Control cinemático [Presentación]()
