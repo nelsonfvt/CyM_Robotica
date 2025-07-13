@@ -2,7 +2,7 @@
 
 Autor: Alexandra Velasco Vivas
 
-1. Cinemática y matrices de rotación [Presentación](/./1%20Cinematica_%20matrices%20de%20rotacion.pptx)
+1. Cinemática y matrices de rotación [Presentación](/Presentaciones%20-%20Alexandra%20Velasco/1%20Cinematica_%20matrices%20de%20rotacion.pptx)
 
 2. Representación de rotaciones - ángulos de Euler [Presentación]()
 
