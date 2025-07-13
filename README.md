@@ -16,6 +16,8 @@ Material de apoyo de la asignatura **Robótica** del programa de Ingeniería mEc
 
 ### Cinemática Directa
 
+#### Representación D-H
+
 ### Cinemática Inversa
 
 ### Cinemática Diferencial
@@ -29,4 +31,8 @@ Material de apoyo de la asignatura **Robótica** del programa de Ingeniería mEc
 
 ## Referencias
 
-Canal [Leopoldo Armesto](https://www.youtube.com/@LeoArmesto/featured)
+Canal Conceptos [Leopoldo Armesto](https://www.youtube.com/@LeoArmesto/featured)
+
+Página ROS2 Tutorials [Robotics Back-End](https://roboticsbackend.com/category/ros2/)
+
+Canal ROS2 Tutorials [Robotics Back-End - Videos](https://www.youtube.com/channel/UCelRThOKlWMnpjqr5EBq6tg)
