@@ -4,7 +4,7 @@ Material de apoyo de la asignatura **Robótica** del programa de Ingeniería Mec
 
 ## Temáticas de la asignatura
 
-[Representación de Posición y Orientación](Representación de Posición y Orientación)
+Representación de Posición y Orientación: [Enlace](Representación de Posición y Orientación/)
 
  Cinemática Directa
 
