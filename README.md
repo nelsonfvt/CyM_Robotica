@@ -27,3 +27,5 @@ Canal Conceptos: [Leopoldo Armesto](https://www.youtube.com/@LeoArmesto/featured
 Página ROS2 Tutorials: [Robotics Back-End](https://roboticsbackend.com/category/ros2/)
 
 Canal ROS2 Tutorials: [Robotics Back-End - Videos](https://www.youtube.com/channel/UCelRThOKlWMnpjqr5EBq6tg)
+
+Libro [Programming Multiple Robots with ROS2](https://osrf.github.io/ros2multirobotbook/)
