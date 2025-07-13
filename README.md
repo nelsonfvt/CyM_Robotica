@@ -1,35 +1,25 @@
 # CyM_Robotica
 
-Material de apoyo de la asignatura **Robótica** del programa de Ingeniería mEcatrónica de la Universidad Militar Nueva Granada
+Material de apoyo de la asignatura **Robótica** del programa de Ingeniería Mecatrónica de la Universidad Militar Nueva Granada
 
 ## Temáticas de la asignatura
 
-### Representación de posición y orientación
+[Representación de Posición y Orientación](Representación de Posición y Orientación)
 
-#### Ángulos de Euler
+ Cinemática Directa
 
-#### Matrices de Rotación
+ Cinemática Inversa
 
-#### Cuaterniones
+ Cinemática Diferencial
 
-#### Matrices de Transformación Homogénea
+ Planeación de trayectorias
 
-### Cinemática Directa
+ Control Cinemático
 
-#### Representación D-H
-
-### Cinemática Inversa
-
-### Cinemática Diferencial
-
-### Planeación de trayectorias
-
-### Control Cinemático
-
-### Introducción a la robóica móvil
+ Introducción a la robótica móvil
 
 
-## Referencias
+## Enlaces de interés
 
 Canal Conceptos [Leopoldo Armesto](https://www.youtube.com/@LeoArmesto/featured)
 
