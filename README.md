@@ -1,6 +1,7 @@
 # CyM_Robotica
 
-Material de apoyo de la asignatura **Robótica** del programa de Ingeniería Mecatrónica de la Universidad Militar Nueva Granada
+Material de apoyo de la asignatura **Robótica** del programa de Ingeniería Mecatrónica de la Universidad Militar Nueva Granada.  
+El la sección [Presentaciones - Alexandra Velasco](/Presentaciones%20-%20Alexandra%20Velasco) encontrará material de estudio elaborado por la profesora titular de la asignatura.
 
 ## Temáticas de la asignatura
 
