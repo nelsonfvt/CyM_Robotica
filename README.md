@@ -5,19 +5,19 @@ El la sección [Presentaciones - Alexandra Velasco](/Presentaciones%20-%20Alexan
 
 ## Temáticas de la asignatura
 
-Representación de Posición y Orientación: [Ir a](/Representación%20de%20Posición%20y%20Orientación)
+1. Representación de Posición y Orientación: [Ir a](/Representación%20de%20Posición%20y%20Orientación)
 
-1. Cinemática Directa: [Ir a](/Cinem%C3%A1tica%20Directa)
+2. Cinemática Directa: [Ir a](/Cinem%C3%A1tica%20Directa)
 
-2. Cinemática Inversa: [Ir a](/Cinem%C3%A1tica%20Inversa)
+3. Cinemática Inversa: [Ir a](/Cinem%C3%A1tica%20Inversa)
 
-3. Cinemática Diferencial: [Ir a](/Cinem%C3%A1tica%20Diferencial)
+4. Cinemática Diferencial: [Ir a](/Cinem%C3%A1tica%20Diferencial)
 
-4. Planeación de trayectorias: [Ir a](/Planeaci%C3%B3n%20de%20Trayectorias)
+5. Planeación de trayectorias: [Ir a](/Planeaci%C3%B3n%20de%20Trayectorias)
 
-5. Control Cinemático: [Ir a](/Planeaci%C3%B3n%20de%20Trayectorias)
+6. Control Cinemático: [Ir a](/Planeaci%C3%B3n%20de%20Trayectorias)
 
-6. Introducción a la robótica móvil: [Ir a](/Intro%20-%20Rob%C3%B3tica%20M%C3%B3vil)
+7. Introducción a la robótica móvil: [Ir a](/Intro%20-%20Rob%C3%B3tica%20M%C3%B3vil)
 
 
 ## Enlaces de interés
