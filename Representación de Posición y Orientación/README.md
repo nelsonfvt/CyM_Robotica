@@ -8,4 +8,4 @@ Representaciones de rotación y ángulos de Euler [Link](../Presentaciones%20-%2
 
 Matrices de Rotación [Link](../Presentaciones%20-%20Alexandra%20Velasco/1%20Cinematica_%20matrices%20de%20rotacion.pptx)
 
-Matrices de transformación [Link](../Presentaciones%20-%20Alexandra%20Velasco/3%20Cinematica%20matrices%20de%20transformacion.pptx
+Matrices de transformación [Link](../Presentaciones%20-%20Alexandra%20Velasco/3%20Cinematica%20matrices%20de%20transformacion.pptx)
