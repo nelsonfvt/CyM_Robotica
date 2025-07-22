@@ -22,7 +22,7 @@ El la sección [Presentaciones - Alexandra Velasco](/Presentaciones%20-%20Alexan
 
 ## Enlaces de interés
 
-Canal Conceptos de Robótica: [Leopoldo Armesto](https://www.youtube.com/@LeoArmesto/featured)
+Canal Conceptos de Robótica: [Leopoldo Armesto](https://www.youtube.com/watch?v=g8Z8mM_V_KY&list=PLjzuoBhdtaXMrzJtuu75QhykTTuA2o-Ns)
 
 ROS2 Humble Documentación oficial: [Ros2 Humble](https://docs.ros.org/en/humble/index.html)
 
