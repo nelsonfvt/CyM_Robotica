@@ -14,8 +14,10 @@ Matrices de transformación [Link](../Presentaciones%20-%20Alexandra%20Velasco/3
 
 ### Matrices de Rotación
 Video [ver](https://www.youtube.com/watch?v=LZqt05XENdY&t=131s)
+
 Video [ver](https://www.youtube.com/watch?v=stYoZVRsfuE)
-video [ver](https://www.youtube.com/watch?v=uLl_egj9F2M
+
+video [ver](https://www.youtube.com/watch?v=uLl_egj9F2M)
 
 ### Ángulos de Euler
 
