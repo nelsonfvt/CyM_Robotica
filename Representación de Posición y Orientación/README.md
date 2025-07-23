@@ -23,4 +23,4 @@ video [ver](https://www.youtube.com/watch?v=uLl_egj9F2M)
 
 ### Cuaternios
 
-### Matrices de transformación homogenea
+### Matrices de Transformación Homogenea
