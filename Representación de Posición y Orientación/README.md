@@ -17,10 +17,19 @@ Video [ver](https://www.youtube.com/watch?v=LZqt05XENdY&t=131s)
 
 Video [ver](https://www.youtube.com/watch?v=stYoZVRsfuE)
 
-video [ver](https://www.youtube.com/watch?v=uLl_egj9F2M)
+Video [ver](https://www.youtube.com/watch?v=uLl_egj9F2M)
 
 ### Ángulos de Euler
 
+Wikipedia [Ir](https://en.wikipedia.org/wiki/Euler_angles)
+
+Video [ver](https://www.youtube.com/watch?v=NitYlRFQXPQ&list=PLjzuoBhdtaXMrzJtuu75QhykTTuA2o-Ns&index=18)
+
+Videos [Parte 1](https://www.youtube.com/watch?v=Gji6E9zXN4Q) [Parte 2](https://www.youtube.com/watch?v=2gFwy9L4drU) [Parte 3](https://www.youtube.com/watch?v=pddCmF7aGXk)
+
+Animación [ver](https://www.youtube.com/watch?v=x4SO85j-Jk8)
+
 ### Cuaternios
+Video [ver](https://www.youtube.com/watch?v=EsThkmS1NlA&list=PLjzuoBhdtaXMrzJtuu75QhykTTuA2o-Ns&index=19)
 
 ### Matrices de Transformación Homogenea
