@@ -32,4 +32,8 @@ Animación [ver](https://www.youtube.com/watch?v=x4SO85j-Jk8)
 ### Cuaternios
 Video [ver](https://www.youtube.com/watch?v=EsThkmS1NlA&list=PLjzuoBhdtaXMrzJtuu75QhykTTuA2o-Ns&index=19)
 
+Video [ver](https://www.youtube.com/watch?v=DhCYM-t4Mss)
+
+Videos [Parte 1](https://www.youtube.com/watch?v=0im2iYiMOsA) [Parte 2](https://youtu.be/9M0mtOCbXgo)
+
 ### Matrices de Transformación Homogenea
