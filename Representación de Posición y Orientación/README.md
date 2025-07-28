@@ -36,4 +36,10 @@ Video [ver](https://www.youtube.com/watch?v=DhCYM-t4Mss)
 
 Videos [Parte 1](https://www.youtube.com/watch?v=0im2iYiMOsA) [Parte 2](https://youtu.be/9M0mtOCbXgo)
 
-### Matrices de Transformación Homogenea
+### Matrices de Transformación Homogénea
+
+Video [ver](https://youtu.be/Hk1iOttyYQw)
+
+Video [ver](https://youtu.be/neILzW6JDaY)
+
+Northwestern University [ir](https://modernrobotics.northwestern.edu/nu-gm-book-resource/3-3-1-homogeneous-transformation-matrices/)
