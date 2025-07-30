@@ -58,4 +58,4 @@ Northwestern University [ir](https://modernrobotics.northwestern.edu/nu-gm-book-
 
 Ejemplo 2 [enlace](https://www.geogebra.org/calculator/pnr93rhc)
 
-Ejemplo 3 [enlace](ttps://www.geogebra.org/calculator/pp8c2upf)
+Ejemplo 3 [enlace](https://www.geogebra.org/calculator/pp8c2upf)
