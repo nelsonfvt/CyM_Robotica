@@ -39,3 +39,23 @@ Tutoriales oficiales - Beginner [ir](https://docs.ros.org/en/humble/Tutorials/Be
 Create ROS2 node - python/OOP [video](https://www.youtube.com/watch?v=wfCuPQ_6VbI)
 
 Simple node [video](https://www.youtube.com/watch?v=B-GDnDd-u7g)
+
+## Simulación de robots en ROS
+
+Lista de videos (spanish) [link youtube](https://www.youtube.com/watch?v=xNT3WAhoa5o&list=PLrnCEWELhVIrJqxOeK0r8maWzsHl9XC_V)
+
+### URDF - ROS2
+
+URDF exporter [wiki](https://wiki.ros.org/sw_urdf_exporter)
+
+Tutorial URDF exporter [wiki](https://wiki.ros.org/sw_urdf_exporter/Tutorials/Export%20an%20Assembly)
+
+From SW to URDF [youtube list](https://www.youtube.com/watch?v=p9c9KoKjEe0&list=PLC-SsBhVny0XrRpYoofHT39dGeGe51UAa)
+
+### RViz - ROS2
+
+RViz User guide [docs](https://docs.ros.org/en/humble/Tutorials/Intermediate/RViz/RViz-User-Guide/RViz-User-Guide.html)
+
+Video Tutorial [parte 1](https://www.youtube.com/watch?v=WA3ynlo30vw)
+
+Video Tutorial [parte 2](https://www.youtube.com/watch?v=Xq6SfjUPEQk)
