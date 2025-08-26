@@ -60,7 +60,7 @@ Video Tutorial [parte 1](https://www.youtube.com/watch?v=WA3ynlo30vw)
 
 Video Tutorial [parte 2](https://www.youtube.com/watch?v=Xq6SfjUPEQk)
 
-### Gazebo - ROS
+### Gazebo - ROS2
 
 Dependiendo de la versión de Ubuntu -> ROS2. También hay una versión correspondiente de Gazebo. Revise la documentación.
 
