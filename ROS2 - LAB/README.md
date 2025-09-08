@@ -67,3 +67,7 @@ Dependiendo de la versión de Ubuntu -> ROS2. También hay una versión correspo
 Instalación Gazebo (oficial) [ir](https://gazebosim.org/docs/latest/ros_installation/)
 
 Videos-Tutorial (spanish) [parte 1](https://www.youtube.com/watch?v=dDNSJ-Ws7Xg) [parte 2](https://www.youtube.com/watch?v=veFfrNE1mco) [parte 3](https://www.youtube.com/watch?v=e6mne2quWug)
+
+IEEE RAS Javeriana (Playlists) [2025-1](https://www.youtube.com/watch?v=GtJ_fmBkUBM&list=PL5voZ6KqtiKwNmDU1wXZvgFFYiSCNREHA) [2025-1](https://www.youtube.com/watch?v=9MGzrKJ3ueg&list=PL5voZ6KqtiKzyIftQ-Xu9jGDyNhyXfGvo) [2025-3](https://www.youtube.com/watch?v=uVHnTegeo-U&list=PL5voZ6KqtiKyZfcd3TzzlO9RUkmkyun0p&pp=0gcJCZYEOCosWNin) [2025-3](https://www.youtube.com/watch?v=vpZIoPTiBnY&list=PL5voZ6KqtiKxQMWQmIcxS5D04-pEJCaCG)
+
+Repositorios Gabriel Diaz [github](https://github.com/gdiaz-guevara/ras_junior2_activity/tree/main) [gitlab](https://gitlab.com/gabrieldiaz94/ignition-tutorial/-/blob/jazzy/rasbot_gazebo/launch/rasbot_gz.launch.py?ref_type=heads)
