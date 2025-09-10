@@ -10,7 +10,7 @@ Cinemática diferencial [link](https://github.com/nelsonfvt/CyM_Robotica/blob/ma
 
 Video Jacobiano Analítico [link](https://youtu.be/TSHDhM-Bdh0)
 
-Video Jacobiano Analítico Robot 2DOF[link](https://youtu.be/2_4grRMwYPo)
+Video Jacobiano Analítico Robot 2DOF [link](https://youtu.be/2_4grRMwYPo)
 
 Video Jacobiano Geométrico [link antiguo](https://youtu.be/iV52mOOl604) [link](https://youtu.be/GNJhS4c1Msc)
 
