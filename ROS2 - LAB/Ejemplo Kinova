@@ -1,0 +1,174 @@
+cd Downloads 
+cp -r Kinova_URDF Kinova_URDF_original
+ls 
+cd Kinova_URDF 
+ls 
+find . -maxdepth 2 -type f | sort
+
+rm export.log
+rm urdf/Kinova_URDF.csv
+rm launch/gazebo.launch
+
+nano package.xml
+
+Copiar y pegar : 
+
+<?xml version="1.0"?>
+<package format="3">
+
+  <name>kinova_urdf</name>
+  <version>1.0.0</version>
+
+  <description>
+    URDF description package for Kinova robot.
+    Contains the robot model, meshes and ROS 2 launch files.
+  </description>
+
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>joint_state_publisher_gui</exec_depend>
+  <exec_depend>rviz2</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>
+
+-------------------------------------
+
+nano CMakeLists.txt
+
+Copiar y pegar : 
+
+cmake_minimum_required(VERSION 3.8)
+
+project(Kinova_URDF)
+
+find_package(ament_cmake REQUIRED)
+
+install(
+  DIRECTORY
+    config
+    launch
+    meshes
+    urdf
+  DESTINATION share/${PROJECT_NAME}
+)
+
+ament_package()
+
+----------------------------------------
+LAUNCH
+
+rm launch/display.launch
+
+nano launch/display.launch.py
+
+Copiar y pegar : 
+ 
+from launch import LaunchDescription
+from launch_ros.actions import Node
+from ament_index_python.packages import get_package_share_directory
+import os
+
+
+def generate_launch_description():
+
+    package_path = get_package_share_directory('Kinova_URDF')
+
+    urdf_file = os.path.join(
+        package_path,
+        'urdf',
+        'Kinova_URDF.urdf'
+    )
+
+    with open(urdf_file, 'r') as file:
+        robot_description = file.read()
+
+    return LaunchDescription([
+
+        Node(
+            package='joint_state_publisher_gui',
+            executable='joint_state_publisher_gui',
+            name='joint_state_publisher_gui'
+        ),
+
+        Node(
+            package='robot_state_publisher',
+            executable='robot_state_publisher',
+            name='robot_state_publisher',
+            parameters=[
+                {'robot_description': robot_description}
+            ]
+        ),
+
+        Node(
+            package='rviz2',
+            executable='rviz2',
+            name='rviz2'
+        )
+    ])
+  ----------------------------------------  
+    
+ cd 
+ mkdir -p ~/kinova_ros2_ws/src
+ cp -r ~/Downloads/Kinova_URDF ~/kinova_ros2_ws/src/
+ ls ~/kinova_ros2_ws/src/Kinova_URDF
+ 
+ cd ~/kinova_ros2_ws
+ source /opt/ros/jazzy/setup.bash
+ colcon build --symlink-install
+ 
+ source ~/kinova_ros2_ws/install/setup.bash
+ ros2 pkg list | grep Kinova
+
+ros2 launch kinova_urdf display.launch.py
+
+------------------------ERROR NOMBRE : -------
+ 
+ cd ~/kinova_ros2_ws/src
+ mv Kinova_URDF kinova_urdf
+ 
+
+ nano ~/kinova_ros2_ws/src/kinova_urdf/CMakeLists.txt
+ 
+ kinova_urdf
+ 
+ nano ~/kinova_ros2_ws/src/kinova_urdf/launch/display.launch.py
+ 
+ kinova_urdf
+
+cd
+
+cd ~/kinova_ros2_ws
+rm -rf build install log
+
+source /opt/ros/jazzy/setup.bash
+colcon list
+
+colcon build --symlink-install
+source install/setup.bash
+ros2 pkg list | grep kinova
+
+
+cd ~/kinova_ros2_ws/src/kinova_urdf
+sed -i 's/package:\/\/Kinova_URDF/package:\/\/kinova_urdf/g' urdf/Kinova_URDF.urdf
+grep -n 'package://' urdf/Kinova_URDF.urdf
+
+
+cd ~/kinova_ros2_ws
+source /opt/ros/jazzy/setup.bash
+colcon build --symlink-install
+
+source install/setup.bash
+ros2 pkg list | grep kinova
+
+ros2 launch kinova_urdf display.launch.py
+
+sed -i 's/kinova_urdf\.urdf/Kinova_URDF.urdf/g' ~/kinova_ros2_ws/src/kinova_urdf/launch/display.launch.py
+
+ros2 launch kinova_urdf display.launch.py

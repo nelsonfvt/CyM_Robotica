@@ -1,0 +1,38 @@
+
+    
+EL LAUNCH ES ROS 1
+    
+$(find ...)
+<node ...>
+<param ...>
+roslaunch
+rviz
+
+ESTE ES ROS 2 : 
+
+ros2 launch
+robot_state_publisher
+joint_state_publisher_gui
+rviz2
+ament_cmake
+
+
+PLAN
+
+Kinova_URDF/
+├── CMakeLists.txt          ← rehacer para ROS 2
+├── package.xml             ← rehacer para ROS 2
+├── config/
+│   └── joint_names_Kinova_URDF.yaml
+├── launch/
+│   └── display.launch.py   ← crear ROS 2
+├── meshes/                 ← conservar
+│   ├── base_link.STL
+│   ├── Eslabon_1.STL
+│   ├── Eslabon_2.STL
+│   ├── Eslabon_3.STL
+│   ├── Eslabon_4.STL
+│   ├── Eslabon_5.STL
+│   └── Efector_final.STL
+└── urdf/
+    └── Kinova_URDF.urdf    ← conservar
